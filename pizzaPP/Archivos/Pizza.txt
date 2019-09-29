@@ -1,0 +1,2 @@
+{"id":1,"tipo":"3","precio":"34","foto":".\/Fotos\/1.jpg","cantidad":"3","sabor":"we"}
+{"id":2,"tipo":"3","precio":"39","foto":".\/Fotos\/2.jpg","cantidad":"5","sabor":"wea"}
